@@ -1,2 +1,3 @@
-# first-repo
-my first repo
+# demo-repo
+my first repository
+Author- Wasif
